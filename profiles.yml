@@ -1,7 +1,6 @@
 dbt_demo_final:
   outputs:
     dev:
-      catalog: default
       host: adb-604727183774862.2.azuredatabricks.net
       http_path: sql/protocolv1/o/604727183774862/1208-081948-1any7onp
       schema: test_demo
