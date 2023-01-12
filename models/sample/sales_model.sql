@@ -3,7 +3,7 @@ with sales_model as (
 salesman_id as salesman_id,
 name as name,
 city as city,
-commission as commission
+commission as commission,
 
  from test_demo.sales )
 
